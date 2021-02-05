@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.d4 e5 2.dxe5 Bc5 3.Nf3 
+    ( 3.Nc3 {trap no longer works... knight on c3 protects queen} )
+3...d6 4.exd6 
+    ( 4.Bf4 Ne7 5.exd6 Nbc6 6.dxe7 Bxf2+ 7.Kxf2 Qxd1 )
+4...Ne7 5.dxe7 
+    ( 5.e3 Bxd6 {now we're down a pawn but playable.....} )
+5...Bxf2+ 6.Kxf2 Qxd1 *
+

@@ -1,0 +1,35 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 
+    ( 4...Nxe4 5.Bxf7+ 
+        ( 5.Nxe4 {this leads to even material but down in development, not
+        good for white} 5...d5 6.Bd3 dxe4 7.Bxe4 )
+        ( 5.Nxf7 Qh4 6.Qe2 Nd4 7.g3 Nxe2 8.gxh4 Nd4 9.Nxh8 Nxc2+ {will be 
+        down in material, knight may be trapped} )
+    5...Ke7 6.d4 Nf6 
+        ( 6...Nxg5 7.Bxg5+ Kd6 8.Bxd8 )
+        ( 6...exd4 7.Bd5 Nf6 8.Qe2+ Kd6 9.Nf7+ )
+    7.dxe5 Ng8 8.Nc3 )
+    ( 4...Bc5 {traxxler counter attack} 5.Nxf7 Bxf2+ 6.Kxf2 Nxe4+ 7.Kf1 
+    Qh4 {many attacks from here} )
+5.exd5 Nxd5 
+    ( 5...Na5 {main line according to gothamchess} 6.Bb5+ c6 
+        ( 6...Bd7 7.Qe2 )
+    7.dxc6 bxc6 8.Be2 
+        ( 8.Qf3 cxb5 9.Qxa8 Bb7 10.Qxd8+ Kxd8 11.Nxf7+ Ke7 12.Nxh8 )
+    )
+6.Nxf7 Kxf7 7.Qf3+ Ke6 
+    {any other king move here loses the knight on d5}
+8.Nc3 Nb4 9.O-O 
+    {castling here is cool beans since the knight can't take on c2 or else
+    the knight on d5 will fall}
+    ( 9.Qe4 c6 10.a3 Na6 11.d4 Nc7 12.Bf4 Kf7 13.Bxe5 Be6 {stockfish line}
+    )
+9...c6 10.d4 Qf6 11.Qd1 Ke7 12.Re1 Qg6 13.Rxe5+ Kd8 14.Nxd5 Nxd5 *
+

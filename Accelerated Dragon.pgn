@@ -1,0 +1,21 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bc4 
+    ( 3.d4 cxd4 4.Nxd4 g6 5.Bc4 
+        ( 5.Nc3 Bg7 6.Nxc6 bxc6 )
+    5...e6 {never play g6 and e6, one of the worst moves you can ever make
+    - daniel naroditsky} )
+3...e6 
+    {blunt the bishop, this is the only line when you don't fiancetto 
+    bishop}
+4.O-O Nf6 5.e5 
+    ( 5.d3 d5 6.exd5 exd5 7.Bb5 Be7 8.Re1 O-O )
+    ( 5.Re1 Nxe4 6.Rxe4 d5 7.Bxd5 Qxd5 8.Nc3 Qd8 )
+5...Ng4 6.Re1 d6 7.exd6 Bxd6 8.h3 Nf6 *
+

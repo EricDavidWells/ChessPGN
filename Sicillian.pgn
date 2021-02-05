@@ -1,0 +1,37 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 c5 2.c3 
+    {c3 Sicillian or Alapin, general idea is to take control of center, 
+    black will take cxd4, and deloping knight to f3.  This is always 
+    leading to non-sicilian looking openings, which is good if your 
+    opponnent plays the sicillian a lot.}
+2...Nf6 
+    ( 2...d5 3.exd5 Qxd5 4.d4 Nf6 5.Nf3 Nc6 6.Be3 Bg4 7.Be2 cxd4 8.cxd4 )
+    ( 2...e6 3.d4 cxd4 
+        ( 3...d5 4.exd5 exd5 5.Nf3 )
+    4.cxd4 d5 5.exd5 exd5 6.Nc3 )
+    ( 2...d6 3.d4 cxd4 
+        ( 3...Nf6 4.Bd3 Nc6 5.Nf3 )
+    4.cxd4 Nf6 
+        ( 4...e5 5.dxe5 
+            ( 5.Nf3 exd4 6.Nxd4 )
+        5...dxe5 6.Qxd8+ Kxd8 )
+    5.Nc3 )
+    ( 2...e5 3.Nf3 d5 
+        ( 3...Nc6 4.Bc4 Nf6 5.Ng5 d5 6.exd5 Nxd5 7.d4 cxd4 8.Nxf7 Kxf7 9.
+        Qf3+ )
+    4.Nxe5 dxe4 5.Bc4 )
+3.e5 Nd5 4.d4 cxd4 
+    ( 4...Nc6 5.Nf3 cxd4 6.cxd4 {very common, this happens all the time 
+    and white is lookin good with great pawns in the center} )
+5.Nf3 
+    {can leave the pawn hanging, if it moves the knight will die
+    }
+5...Nc6 6.cxd4 *
+

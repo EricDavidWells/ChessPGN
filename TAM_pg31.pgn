@@ -1,0 +1,21 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+[FEN "1r4k1/5p1p/1p3np1/pR6/P1Pr3P/2R2B2/1P4P1/7K w - - 0 1"]
+
+1.c5 
+    {This is the correct line}
+    ( 1.g3 {1700 pg 32 line} 1...Nd7 2.Bd5 Nc5 3.Rf3 Nxa4 4.Bxf7+ Kg7 5.
+    Rf2 Rf8 {and now whites bishop is dead or his rook is dead
+    } )
+1...Rxh4+ 2.Kg1 Rb4 3.Rxb4 
+    ( 3.Rb3 {alternative less instructional by Sharon Burtman
+    } 3...Rxb3 4.Rxb3 Nd7 5.c6 Nc5 6.Rxb6 Rxb6 7.c7 )
+3...axb4 4.Rc4 bxc5 5.Rxc5 Kg7 6.a5 Re8 7.Rc1 Re5 8.Ra1 Re7 9.Kf2 Ne8 10.
+a6 Ra7 11.Ke3 Nc7 12.Bb7 Ne6 13.Ra5 Kf6 14.Kd3 Ke7 15.Kc4 Kd6 16.Rd5+ Kc7 
+17.Kb5 f6 18.Rd1 f5 19.Rc1+ Kd6 20.Kb6 Rxb7+ 21.axb7 *
+
