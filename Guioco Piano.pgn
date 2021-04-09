@@ -1,0 +1,49 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 
+    {center attack, leads to equal end games, very drawish at high levels}
+5...exd4 6.cxd4 Bb4+ 
+    ( 6...Bb6 7.e5 Ne4 
+        ( 7...Na5 8.exf6 Nxc4 9.Qe2+ Kf8 10.Qxc4 {blunders a knight} )
+        ( 7...Nh5 8.Ng5 {[%draw arrow,c4,f7,red] [%draw arrow,g5,f7,red]} 
+            ( 8.g4 d5 9.Bd3 Bxg4 )
+        )
+        ( 7...Ng8 8.d5 Na5 
+            ( 8...Nb8 9.d6 cxd6 10.exd6 Nf6 11.Qe2+ Kf8 {black losing 
+            badly} )
+        9.Be2 d6 10.b4 )
+    8.Qe2 Ba5+ 9.Kf1 
+        ( 9.Kd1 d5 10.exd6 Bf5 11.Nbd2 Bxd2 12.Nxd2 Qxd6 13.Nxe4 Qxd4+ 14.
+        Nd2+ Kd7 )
+    9...d5 10.exd6 Bf5 11.d5 Nb8 12.Nbd2 O-O 
+        ( 12...Bxd2 13.Nxd2 cxd6 14.Nxe4 Qe7 15.Nxd6+ Kf8 16.Qxe7+ Kxe7 
+        17.Nxf5+ )
+    13.Nxe4 Re8 14.dxc7 Bxc7 15.Nfg5 h6 
+        ( 15...f6 16.d6+ Be6 17.Bxe6+ Rxe6 18.Nxe6 Qe8 19.Nxc7 )
+    16.Nxf7 Rxe4 17.Nxd8 Rxe2 18.d6+ Kh7 19.dxc7 Re7 20.cxb8=Q Rxb8 21.Nf7
+    )
+7.Bd2 
+    ( 7.Nbd2 Nxe4 8.d5 Nxd2 9.Bxd2 Bxd2+ 10.Qxd2 Ne7 {black up a pawn, but
+    so much development for white, engine says even} )
+7...Bxd2+ 
+    ( 7...Nxe4 8.Bxb4 Nxb4 9.Bxf7+ Kxf7 10.Qb3+ Kf8 11.Qxb4+ Qe7 12.Qxe7+ 
+    Kxe7 {even material, black king misplaced, engine says equal} )
+8.Nbxd2 
+    {[%draw arrow,d2,e4,red]}
+8...d5 9.exd5 Nxd5 10.Qb3 Na5 11.Qa4+ Nc6 
+    ( 11...c6 12.Bxd5 Qxd5 13.O-O O-O 14.Rfe1 {[%draw arrow,e1,e5,red] 
+    [%draw arrow,e5,a5,red]} 14...b6 15.Re5 Qd7 16.Rae1 {white pieces much
+    more active, engine says winning for white} )
+12.Qb3 Na5 
+    ( 12...Nce7 13.O-O O-O 14.Rfe1 Nb6 {nothing really going on, white has
+    isolated pawn but is more developed, no big advantage for white} )
+13.Qa4+ Nc6 
+    {repetition}
+*
+
